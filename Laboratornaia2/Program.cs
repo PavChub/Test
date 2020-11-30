@@ -6,7 +6,7 @@ namespace Laboratornaia2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Пробная программа для тестирования");
+            Console.WriteLine("Результат изменения строки");
         }
     }
 }
